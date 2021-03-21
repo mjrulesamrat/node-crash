@@ -1,0 +1,20 @@
+{
+  "name": "node-crash",
+  "version": "1.0.0",
+  "description": "- globals - modules     - names     - utils - builtins     - path     - os     - fs {sync, async} - HTTP - NPM",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mjrulesamrat.github.com:mjrulesamrat/node-crash.git"
+  },
+  "keywords": [],
+  "author": "Jay Modi",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
