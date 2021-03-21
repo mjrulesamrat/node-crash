@@ -8,3 +8,5 @@
     - path
     - os
     - fs {sync, async}
+- HTTP
+- NPM
