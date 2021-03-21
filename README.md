@@ -5,3 +5,6 @@
     - names
     - utils
 - builtins
+    - path
+    - os
+    - fs {sync, async}
