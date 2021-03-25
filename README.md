@@ -10,3 +10,5 @@
     - fs {sync, async}
 - HTTP
 - NPM
+- eventloop1
+- promise
