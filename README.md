@@ -12,3 +12,4 @@
 - NPM
 - eventloop1
 - promise
+- async/await
