@@ -10,6 +10,8 @@
     - fs {sync, async}
 - HTTP
 - NPM
-- eventloop1
-- promise
-- async/await
+- EventLoop
+- Promise
+- Async/Await
+- Event Emitter
+- Request Event
